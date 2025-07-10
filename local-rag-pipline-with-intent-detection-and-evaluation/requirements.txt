@@ -5,3 +5,5 @@ openai
 scikit-learn
 numpy
 streamlit
+websockets
+pandas
