@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What are the common side effects of metformin?",
+    "ground_truth": "Common side effects of metformin include gastrointestinal symptoms such as nausea, vomiting, diarrhea, abdominal pain, and metallic taste. These effects are usually mild and transient, occurring in 10-25% of patients. Lactic acidosis is a rare but serious side effect. Vitamin B12 deficiency may occur with long-term use.",
+    "contexts": [
+      "Metformin is generally well-tolerated, but gastrointestinal side effects are the most common adverse reactions.",
+      "Nausea, vomiting, diarrhea, and abdominal discomfort occur in approximately 10-25% of patients taking metformin.",
+      "Lactic acidosis is a rare but potentially fatal side effect of metformin, particularly in patients with renal impairment.",
+      "Long-term metformin use has been associated with vitamin B12 deficiency due to decreased absorption."
+    ]
+  },
+  {
+    "question": "What is the recommended dosage of aspirin for cardiovascular protection?",
+    "ground_truth": "For primary prevention of cardiovascular disease, low-dose aspirin (75-100 mg daily) is recommended for adults aged 40-70 years who have an increased cardiovascular risk and are not at increased bleeding risk. For secondary prevention after myocardial infarction or stroke, 75-100 mg daily is typically recommended long-term.",
+    "contexts": [
+      "Low-dose aspirin (75-100 mg daily) is recommended for primary cardiovascular prevention in selected patients.",
+      "The American Heart Association recommends aspirin 75-100 mg daily for secondary prevention after cardiovascular events.",
+      "Primary prevention with aspirin should consider both cardiovascular risk and bleeding risk in patients aged 40-70 years.",
+      "Higher doses of aspirin do not provide additional cardiovascular benefit but increase bleeding risk."
+    ]
+  },
+  {
+    "question": "How is type 2 diabetes diagnosed?",
+    "ground_truth": "Type 2 diabetes is diagnosed based on blood glucose criteria: fasting plasma glucose ≥126 mg/dL (7.0 mmol/L), 2-hour plasma glucose ≥200 mg/dL (11.1 mmol/L) during oral glucose tolerance test, HbA1c ≥6.5% (48 mmol/mol), or random plasma glucose ≥200 mg/dL with classic symptoms. Diagnosis requires confirmation on a separate day unless symptoms are present.",
+    "contexts": [
+      "Diabetes diagnosis requires specific blood glucose thresholds to be met on laboratory testing.",
+      "Fasting plasma glucose ≥126 mg/dL or 2-hour OGTT glucose ≥200 mg/dL indicates diabetes.",
+      "HbA1c ≥6.5% is an alternative diagnostic criterion for diabetes that reflects average glucose over 2-3 months.",
+      "Random plasma glucose ≥200 mg/dL with classic symptoms (polyuria, polydipsia, weight loss) confirms diabetes diagnosis."
+    ]
+  },
+  {
+    "question": "What are the contraindications for ACE inhibitors?",
+    "ground_truth": "Absolute contraindications for ACE inhibitors include history of angioedema, bilateral renal artery stenosis, pregnancy, and hyperkalemia. Relative contraindications include severe renal impairment, aortic stenosis, and volume depletion. ACE inhibitors should be used with caution in patients with unilateral renal artery stenosis.",
+    "contexts": [
+      "ACE inhibitors are contraindicated in patients with a history of angioedema due to risk of life-threatening airway obstruction.",
+      "Bilateral renal artery stenosis is an absolute contraindication as ACE inhibitors can cause acute renal failure.",
+      "Pregnancy is a contraindication due to teratogenic effects including renal dysgenesis and growth restriction.",
+      "Hyperkalemia and severe renal impairment require careful monitoring or avoidance of ACE inhibitors."
+    ]
+  },
+  {
+    "question": "What is the mechanism of action of statins?",
+    "ground_truth": "Statins work by competitively inhibiting HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis. This reduces hepatic cholesterol production, leading to upregulation of LDL receptors and increased clearance of LDL cholesterol from the blood. Statins also have pleiotropic effects including anti-inflammatory and endothelial protective properties.",
+    "contexts": [
+      "Statins inhibit HMG-CoA reductase, the key enzyme in the cholesterol synthesis pathway.",
+      "By reducing cholesterol synthesis, statins cause upregulation of hepatic LDL receptors.",
+      "Increased LDL receptor expression leads to enhanced clearance of LDL cholesterol from plasma.",
+      "Statins have additional pleiotropic effects beyond cholesterol lowering, including anti-inflammatory actions."
+    ]
+  },
+  {
+    "question": "What are the symptoms of hyperthyroidism?",
+    "ground_truth": "Hyperthyroidism symptoms include weight loss despite increased appetite, heat intolerance, excessive sweating, palpitations, tremor, anxiety, irritability, insomnia, frequent bowel movements, muscle weakness, and menstrual irregularities. Physical signs may include tachycardia, warm moist skin, tremor, and in Graves' disease, exophthalmos and goiter.",
+    "contexts": [
+      "Hyperthyroidism causes increased metabolic rate leading to weight loss and heat intolerance.",
+      "Cardiovascular symptoms include palpitations, tachycardia, and increased cardiac output.",
+      "Neuropsychiatric symptoms include anxiety, irritability, insomnia, and fine tremor.",
+      "Graves' disease may present with specific signs including exophthalmos and diffuse goiter."
+    ]
+  },
+  {
+    "question": "How should warfarin therapy be monitored?",
+    "ground_truth": "Warfarin therapy requires regular monitoring of the International Normalized Ratio (INR). For most indications, target INR is 2.0-3.0. INR should be checked 2-3 times weekly initially, then weekly until stable, then monthly when stable. Dose adjustments should be made gradually, typically by 10-20% of the weekly dose.",
+    "contexts": [
+      "Warfarin monitoring uses the International Normalized Ratio (INR) to assess anticoagulation intensity.",
+      "Target INR for most indications is 2.0-3.0, with some conditions requiring higher targets.",
+      "Initial monitoring requires frequent INR checks (2-3 times weekly) until therapeutic range is achieved.",
+      "Once stable, INR monitoring can be extended to monthly intervals with consistent results."
+    ]
+  },
+  {
+    "question": "What are the risk factors for venous thromboembolism?",
+    "ground_truth": "Risk factors for venous thromboembolism include immobilization, surgery, trauma, malignancy, pregnancy, oral contraceptives, hormone replacement therapy, obesity, advanced age, inherited thrombophilias, antiphospholipid syndrome, and previous VTE. Virchow's triad describes the pathophysiology: venous stasis, endothelial injury, and hypercoagulability.",
+    "contexts": [
+      "Immobilization and surgery are major risk factors for venous thromboembolism due to venous stasis.",
+      "Malignancy increases VTE risk through multiple mechanisms including hypercoagulability.",
+      "Hormonal factors including pregnancy, oral contraceptives, and HRT increase thrombotic risk.",
+      "Inherited thrombophilias such as Factor V Leiden predispose to venous thromboembolism."
+    ]
+  }
+] 

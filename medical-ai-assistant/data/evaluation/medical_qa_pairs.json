@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What are the contraindications for aspirin?",
+    "ground_truth": "Aspirin is contraindicated in patients with known hypersensitivity to aspirin or salicylates, active peptic ulcer disease, severe hepatic impairment, severe renal impairment, and in children under 16 years due to risk of Reye's syndrome. It should be used with caution in patients with asthma, as it may precipitate bronchospasm.",
+    "medical_category": "drug_information",
+    "complexity": "medium"
+  },
+  {
+    "query": "What is the recommended dosage of metformin for type 2 diabetes?",
+    "ground_truth": "The initial dose of metformin for adults is typically 500mg twice daily or 850mg once daily with meals. The dose may be gradually increased based on glycemic control and tolerability, with a maximum dose of 2000-2500mg daily divided into 2-3 doses. Dosage should be adjusted in patients with renal impairment.",
+    "medical_category": "drug_information",
+    "complexity": "medium"
+  },
+  {
+    "query": "What are the symptoms of myocardial infarction?",
+    "ground_truth": "Typical symptoms of myocardial infarction include chest pain or discomfort (often described as pressure, squeezing, or heaviness), pain radiating to the left arm, neck, jaw, or back, shortness of breath, nausea, vomiting, diaphoresis (sweating), and feelings of impending doom. Atypical presentations may occur, especially in women, elderly patients, and diabetics.",
+    "medical_category": "diagnosis",
+    "complexity": "high"
+  },
+  {
+    "query": "How is hypertension diagnosed?",
+    "ground_truth": "Hypertension is diagnosed when blood pressure readings consistently show systolic pressure ≥140 mmHg or diastolic pressure ≥90 mmHg on multiple occasions. Diagnosis requires at least two elevated readings on separate visits. Home blood pressure monitoring or 24-hour ambulatory monitoring may be used to confirm the diagnosis and rule out white coat hypertension.",
+    "medical_category": "diagnosis",
+    "complexity": "medium"
+  },
+  {
+    "query": "What are the side effects of statins?",
+    "ground_truth": "Common side effects of statins include muscle pain (myalgia), digestive problems, increased blood sugar levels, and neurological side effects such as memory loss or confusion. Rare but serious side effects include rhabdomyolysis (severe muscle breakdown) and liver damage. Patients should be monitored with periodic liver function tests and creatine kinase levels.",
+    "medical_category": "drug_information",
+    "complexity": "medium"
+  },
+  {
+    "query": "What is the treatment for pneumonia?",
+    "ground_truth": "Treatment for pneumonia depends on the type and severity. Bacterial pneumonia is typically treated with antibiotics such as amoxicillin, azithromycin, or fluoroquinolones. Viral pneumonia may be treated with antiviral medications. Supportive care includes rest, fluids, and fever reduction. Severe cases may require hospitalization and oxygen therapy.",
+    "medical_category": "treatment",
+    "complexity": "high"
+  },
+  {
+    "query": "What are the risk factors for stroke?",
+    "ground_truth": "Risk factors for stroke include hypertension, diabetes mellitus, atrial fibrillation, carotid artery disease, smoking, excessive alcohol consumption, obesity, physical inactivity, age (especially >65 years), family history of stroke, and previous stroke or TIA. Some risk factors are modifiable through lifestyle changes and medical management.",
+    "medical_category": "prevention",
+    "complexity": "medium"
+  },
+  {
+    "query": "How should insulin be administered?",
+    "ground_truth": "Insulin should be administered subcutaneously using proper injection technique. Injection sites should be rotated to prevent lipodystrophy. Rapid-acting insulin is typically given 15 minutes before meals, while long-acting insulin is given once or twice daily at consistent times. Dosage should be adjusted based on blood glucose monitoring and under medical supervision.",
+    "medical_category": "drug_administration",
+    "complexity": "high"
+  },
+  {
+    "query": "What are the warning signs of depression?",
+    "ground_truth": "Warning signs of depression include persistent sadness, loss of interest in activities, changes in appetite or weight, sleep disturbances, fatigue, feelings of worthlessness or guilt, difficulty concentrating, and thoughts of death or suicide. Symptoms must be present for at least two weeks and cause significant impairment in functioning for a diagnosis of major depressive disorder.",
+    "medical_category": "mental_health",
+    "complexity": "medium"
+  },
+  {
+    "query": "What is the difference between Type 1 and Type 2 diabetes?",
+    "ground_truth": "Type 1 diabetes is an autoimmune condition where the pancreas produces little or no insulin, typically developing in childhood or adolescence. Type 2 diabetes is characterized by insulin resistance and relative insulin deficiency, usually developing in adulthood and often associated with obesity. Type 1 requires insulin therapy, while Type 2 may be managed with lifestyle changes, oral medications, and/or insulin.",
+    "medical_category": "disease_comparison",
+    "complexity": "medium"
+  }
+] 
